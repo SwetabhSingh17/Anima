@@ -79,7 +79,7 @@ Anima/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/Anima.git
+git clone https://github.com/SwetabhSingh17/Anima.git
 cd Anima
 
 # Open in Xcode
